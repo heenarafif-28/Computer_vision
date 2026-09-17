@@ -1,7 +1,7 @@
-# Computer Vision – Assignment 1
+# Computer Vision – Assignment 
 
 **B.Tech Artificial Intelligence and Data Science**  
-**Course:** Computer Vision (Academic Year 2025–2026)
+(Academic Year 2025–2026)
 
 This repository contains Python implementations of fundamental computer vision techniques across three laboratory experiments:
 
@@ -28,8 +28,6 @@ This repository contains Python implementations of fundamental computer vision t
 Computer_vision/
 ├── README.md
 ├── requirements.txt
-├── Computer_Vision_Assignment_1.docx
-├── Computer_Vision_Assignment_1.pdf
 ├── experiment1_filtering.py
 ├── experiment2_thresholding.py
 ├── experiment3_edge_detection.py
@@ -40,7 +38,6 @@ Computer_vision/
     ├── filtering_output.png
     ├── thresholding_output.png
     ├── edge_detection_output.png
-    └── github_repo_screenshot.png
 ```
 
 ---
