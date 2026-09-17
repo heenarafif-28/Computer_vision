@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / test files
+~$*.docx
+test_page2.docx
+
+# Environments
+.env
+venv/
+env/
+.venv/
